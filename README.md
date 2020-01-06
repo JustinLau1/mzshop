@@ -58,8 +58,4 @@ UniAPP是一个基于Vue.js开发所有前端应用的框架，开发者编写�
 
 ## 定制开发
 定制开发请联系作者
-##### 作者信息
-Jack Liu  
-Email:liuming@mzsat.cn  
-QQ：2222086676 
-Wechat:![liumingwx02](http://cdn.mzyun.tech/wxqrcode.png)
+
